@@ -12,4 +12,4 @@ npm run build
 
 ## License
 
-MIT &copy; [BinRui.Guan](mainto: differ@gmail.com)
+MIT &copy; [BinRui.Guan](mailto:differui@gmail.com)
